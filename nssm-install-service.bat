@@ -1,0 +1,1 @@
+nssm.exe install Biostar_Event_Capture "%CD%\run-with-logger.bat"

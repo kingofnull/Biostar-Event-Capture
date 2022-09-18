@@ -1,0 +1,1 @@
+nssm.exe start Biostar_Event_Capture

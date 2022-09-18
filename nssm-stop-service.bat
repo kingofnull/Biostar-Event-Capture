@@ -1,0 +1,1 @@
+nssm.exe restart Biostar_Event_Capture
